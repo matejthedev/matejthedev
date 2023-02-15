@@ -9,7 +9,7 @@ In addition to my professional work, I am also a **JavaScript teacher** at a pri
 ## Skills
 
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png) ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 
 Thanks for taking the time to read my bio. If you're interested in working with me or just want to chat, feel free to reach out!
