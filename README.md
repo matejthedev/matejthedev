@@ -1,16 +1,18 @@
-### Hi there 👋
+Hey there, I'm a **JavaScript Developer** with a passion for web development.
 
-<!--
-**matejthedev/matejthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Background
 
-Here are some ideas to get you started:
+I have been working in the field of web development for the past few years. During this time, I have gained experience in working with various web technologies and have developed several web applications for clients. I have worked on both front-end and back-end development projects, which has given me a well-rounded understanding of the web development process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to my professional work, I am also a **JavaScript teacher** at a private university. Sharing my knowledge and helping others learn about this exciting field is something I'm really passionate about.
+
+## Skills
+
+- Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+- MongoDB ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+- Vue.js ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
+- React ![React](https://img.icons8.com/color/48/000000/react-native.png)
+- PostgreSQL ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+- AWS ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+
+Thanks for taking the time to read my bio. If you're interested in working with me or just want to chat, feel free to reach out!
