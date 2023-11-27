@@ -1,4 +1,4 @@
-Hey there, I'm a **JavaScript Full Stack Developer** with a passion for web development.
+Hey there, I'm a **Full Stack Developer** with a passion for Go and JavaScript.
 
 ## Professional Background
 
